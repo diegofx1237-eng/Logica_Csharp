@@ -1,0 +1,42 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diego.nascimento3\\Documents\\GitHub\\Logica_Csharp\\Cadastro_nome_idade\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42C74672-EA54-410F-949D-661794F1EBC5}|Cadastro_nome_idade\\Cadastro_nome_idade.csproj|c:\\users\\diego.nascimento3\\documents\\github\\logica_csharp\\cadastro_nome_idade\\cadastro_nome_idade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C74672-EA54-410F-949D-661794F1EBC5}|Cadastro_nome_idade\\Cadastro_nome_idade.csproj|solutionrelative:cadastro_nome_idade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diego.nascimento3\\Documents\\GitHub\\Logica_Csharp\\Cadastro_nome_idade\\Cadastro_nome_idade\\Program.cs",
+              "RelativeDocumentMoniker": "Cadastro_nome_idade\\Program.cs",
+              "ToolTip": "C:\\Users\\diego.nascimento3\\Documents\\GitHub\\Logica_Csharp\\Cadastro_nome_idade\\Cadastro_nome_idade\\Program.cs",
+              "RelativeToolTip": "Cadastro_nome_idade\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T11:42:02.332Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

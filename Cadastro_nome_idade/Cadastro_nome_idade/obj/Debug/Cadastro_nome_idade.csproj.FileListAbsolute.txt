@@ -1,0 +1,7 @@
+C:\Users\diego.nascimento3\Documents\#C\Cadastro_nome_idade\Cadastro_nome_idade\bin\Debug\Cadastro_nome_idade.exe.config
+C:\Users\diego.nascimento3\Documents\#C\Cadastro_nome_idade\Cadastro_nome_idade\bin\Debug\Cadastro_nome_idade.exe
+C:\Users\diego.nascimento3\Documents\#C\Cadastro_nome_idade\Cadastro_nome_idade\bin\Debug\Cadastro_nome_idade.pdb
+C:\Users\diego.nascimento3\Documents\#C\Cadastro_nome_idade\Cadastro_nome_idade\obj\Debug\Cadastro_nome_idade.csproj.AssemblyReference.cache
+C:\Users\diego.nascimento3\Documents\#C\Cadastro_nome_idade\Cadastro_nome_idade\obj\Debug\Cadastro_nome_idade.csproj.CoreCompileInputs.cache
+C:\Users\diego.nascimento3\Documents\#C\Cadastro_nome_idade\Cadastro_nome_idade\obj\Debug\Cadastro_nome_idade.exe
+C:\Users\diego.nascimento3\Documents\#C\Cadastro_nome_idade\Cadastro_nome_idade\obj\Debug\Cadastro_nome_idade.pdb

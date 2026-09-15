@@ -1,0 +1,14 @@
+C:\Users\diego.nascimento3\Documents\#C\Ano_Bissexto\Ano_Bissexto\Ano_Bissexto\bin\Debug\Ano_Bissexto.exe.config
+C:\Users\diego.nascimento3\Documents\#C\Ano_Bissexto\Ano_Bissexto\Ano_Bissexto\bin\Debug\Ano_Bissexto.exe
+C:\Users\diego.nascimento3\Documents\#C\Ano_Bissexto\Ano_Bissexto\Ano_Bissexto\bin\Debug\Ano_Bissexto.pdb
+C:\Users\diego.nascimento3\Documents\#C\Ano_Bissexto\Ano_Bissexto\Ano_Bissexto\obj\Debug\Ano_Bissexto.csproj.AssemblyReference.cache
+C:\Users\diego.nascimento3\Documents\#C\Ano_Bissexto\Ano_Bissexto\Ano_Bissexto\obj\Debug\Ano_Bissexto.csproj.CoreCompileInputs.cache
+C:\Users\diego.nascimento3\Documents\#C\Ano_Bissexto\Ano_Bissexto\Ano_Bissexto\obj\Debug\Ano_Bissexto.exe
+C:\Users\diego.nascimento3\Documents\#C\Ano_Bissexto\Ano_Bissexto\Ano_Bissexto\obj\Debug\Ano_Bissexto.pdb
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Ano_Bissexto\Ano_Bissexto\Ano_Bissexto\bin\Debug\Ano_Bissexto.exe.config
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Ano_Bissexto\Ano_Bissexto\Ano_Bissexto\bin\Debug\Ano_Bissexto.exe
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Ano_Bissexto\Ano_Bissexto\Ano_Bissexto\bin\Debug\Ano_Bissexto.pdb
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Ano_Bissexto\Ano_Bissexto\Ano_Bissexto\obj\Debug\Ano_Bissexto.csproj.AssemblyReference.cache
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Ano_Bissexto\Ano_Bissexto\Ano_Bissexto\obj\Debug\Ano_Bissexto.csproj.CoreCompileInputs.cache
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Ano_Bissexto\Ano_Bissexto\Ano_Bissexto\obj\Debug\Ano_Bissexto.exe
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Ano_Bissexto\Ano_Bissexto\Ano_Bissexto\obj\Debug\Ano_Bissexto.pdb

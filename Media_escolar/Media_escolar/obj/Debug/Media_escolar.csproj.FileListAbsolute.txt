@@ -1,0 +1,7 @@
+C:\Users\diego.nascimento3\Documents\#C\Media_escolar\Media_escolar\obj\Debug\Media_escolar.csproj.AssemblyReference.cache
+C:\Users\diego.nascimento3\Documents\#C\Media_escolar\Media_escolar\obj\Debug\Media_escolar.csproj.CoreCompileInputs.cache
+C:\Users\diego.nascimento3\Documents\#C\Media_escolar\Media_escolar\bin\Debug\Media_escolar.exe.config
+C:\Users\diego.nascimento3\Documents\#C\Media_escolar\Media_escolar\bin\Debug\Media_escolar.exe
+C:\Users\diego.nascimento3\Documents\#C\Media_escolar\Media_escolar\bin\Debug\Media_escolar.pdb
+C:\Users\diego.nascimento3\Documents\#C\Media_escolar\Media_escolar\obj\Debug\Media_escolar.exe
+C:\Users\diego.nascimento3\Documents\#C\Media_escolar\Media_escolar\obj\Debug\Media_escolar.pdb

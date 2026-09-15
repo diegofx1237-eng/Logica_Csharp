@@ -1,0 +1,7 @@
+C:\Users\diego.nascimento3\Documents\#C\Soma_de_Numeros\Soma_de_Numeros\bin\Debug\Soma_de_Numeros.exe.config
+C:\Users\diego.nascimento3\Documents\#C\Soma_de_Numeros\Soma_de_Numeros\bin\Debug\Soma_de_Numeros.exe
+C:\Users\diego.nascimento3\Documents\#C\Soma_de_Numeros\Soma_de_Numeros\bin\Debug\Soma_de_Numeros.pdb
+C:\Users\diego.nascimento3\Documents\#C\Soma_de_Numeros\Soma_de_Numeros\obj\Debug\Soma_de_Numeros.csproj.AssemblyReference.cache
+C:\Users\diego.nascimento3\Documents\#C\Soma_de_Numeros\Soma_de_Numeros\obj\Debug\Soma_de_Numeros.csproj.CoreCompileInputs.cache
+C:\Users\diego.nascimento3\Documents\#C\Soma_de_Numeros\Soma_de_Numeros\obj\Debug\Soma_de_Numeros.exe
+C:\Users\diego.nascimento3\Documents\#C\Soma_de_Numeros\Soma_de_Numeros\obj\Debug\Soma_de_Numeros.pdb

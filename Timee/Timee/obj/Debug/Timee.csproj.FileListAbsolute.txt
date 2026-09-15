@@ -1,0 +1,7 @@
+C:\Users\diego.nascimento3\Documents\#C\Timee\Timee\bin\Debug\Timee.exe.config
+C:\Users\diego.nascimento3\Documents\#C\Timee\Timee\bin\Debug\Timee.exe
+C:\Users\diego.nascimento3\Documents\#C\Timee\Timee\bin\Debug\Timee.pdb
+C:\Users\diego.nascimento3\Documents\#C\Timee\Timee\obj\Debug\Timee.csproj.AssemblyReference.cache
+C:\Users\diego.nascimento3\Documents\#C\Timee\Timee\obj\Debug\Timee.csproj.CoreCompileInputs.cache
+C:\Users\diego.nascimento3\Documents\#C\Timee\Timee\obj\Debug\Timee.exe
+C:\Users\diego.nascimento3\Documents\#C\Timee\Timee\obj\Debug\Timee.pdb

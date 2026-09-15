@@ -1,0 +1,7 @@
+C:\Users\diego.nascimento3\Documents\#C\Numero_Antecessor_e_Sucessor\Numero_Antecessor_e_Sucessor\bin\Debug\Numero_Antecessor_e_Sucessor.exe.config
+C:\Users\diego.nascimento3\Documents\#C\Numero_Antecessor_e_Sucessor\Numero_Antecessor_e_Sucessor\bin\Debug\Numero_Antecessor_e_Sucessor.exe
+C:\Users\diego.nascimento3\Documents\#C\Numero_Antecessor_e_Sucessor\Numero_Antecessor_e_Sucessor\bin\Debug\Numero_Antecessor_e_Sucessor.pdb
+C:\Users\diego.nascimento3\Documents\#C\Numero_Antecessor_e_Sucessor\Numero_Antecessor_e_Sucessor\obj\Debug\Numero_Antecessor_e_Sucessor.csproj.AssemblyReference.cache
+C:\Users\diego.nascimento3\Documents\#C\Numero_Antecessor_e_Sucessor\Numero_Antecessor_e_Sucessor\obj\Debug\Numero_Antecessor_e_Sucessor.csproj.CoreCompileInputs.cache
+C:\Users\diego.nascimento3\Documents\#C\Numero_Antecessor_e_Sucessor\Numero_Antecessor_e_Sucessor\obj\Debug\Numero_Antecessor_e_Sucessor.exe
+C:\Users\diego.nascimento3\Documents\#C\Numero_Antecessor_e_Sucessor\Numero_Antecessor_e_Sucessor\obj\Debug\Numero_Antecessor_e_Sucessor.pdb
