@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diego.nascimento3\\Documents\\GitHub\\Logica_Csharp\\nome_\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C24BC0-08A4-4B20-8DAE-84802B77DAA9}|nome_\\nome_.csproj|c:\\users\\diego.nascimento3\\documents\\github\\logica_csharp\\nome_\\nome_\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C24BC0-08A4-4B20-8DAE-84802B77DAA9}|nome_\\nome_.csproj|solutionrelative:nome_\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diego.nascimento3\\Documents\\GitHub\\Logica_Csharp\\nome_\\nome_\\Program.cs",
+              "RelativeDocumentMoniker": "nome_\\Program.cs",
+              "ToolTip": "C:\\Users\\diego.nascimento3\\Documents\\GitHub\\Logica_Csharp\\nome_\\nome_\\Program.cs",
+              "RelativeToolTip": "nome_\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T14:26:09.864Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

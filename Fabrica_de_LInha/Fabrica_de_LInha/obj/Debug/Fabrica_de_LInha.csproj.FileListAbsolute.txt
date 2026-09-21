@@ -1,0 +1,7 @@
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Fabrica_de_LInha\Fabrica_de_LInha\bin\Debug\Fabrica_de_LInha.exe.config
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Fabrica_de_LInha\Fabrica_de_LInha\bin\Debug\Fabrica_de_LInha.exe
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Fabrica_de_LInha\Fabrica_de_LInha\bin\Debug\Fabrica_de_LInha.pdb
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Fabrica_de_LInha\Fabrica_de_LInha\obj\Debug\Fabrica_de_LInha.csproj.AssemblyReference.cache
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Fabrica_de_LInha\Fabrica_de_LInha\obj\Debug\Fabrica_de_LInha.csproj.CoreCompileInputs.cache
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Fabrica_de_LInha\Fabrica_de_LInha\obj\Debug\Fabrica_de_LInha.exe
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Fabrica_de_LInha\Fabrica_de_LInha\obj\Debug\Fabrica_de_LInha.pdb

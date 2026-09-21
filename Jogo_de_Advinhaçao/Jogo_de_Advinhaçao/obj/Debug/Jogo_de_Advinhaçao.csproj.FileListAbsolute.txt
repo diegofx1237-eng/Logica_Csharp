@@ -1,0 +1,7 @@
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Jogo_de_Advinhaçao\Jogo_de_Advinhaçao\bin\Debug\Jogo_de_Advinhaçao.exe.config
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Jogo_de_Advinhaçao\Jogo_de_Advinhaçao\bin\Debug\Jogo_de_Advinhaçao.exe
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Jogo_de_Advinhaçao\Jogo_de_Advinhaçao\bin\Debug\Jogo_de_Advinhaçao.pdb
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Jogo_de_Advinhaçao\Jogo_de_Advinhaçao\obj\Debug\Jogo_de_Advinhaçao.csproj.AssemblyReference.cache
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Jogo_de_Advinhaçao\Jogo_de_Advinhaçao\obj\Debug\Jogo_de_Advinhaçao.csproj.CoreCompileInputs.cache
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Jogo_de_Advinhaçao\Jogo_de_Advinhaçao\obj\Debug\Jogo_de_Advinhaçao.exe
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Jogo_de_Advinhaçao\Jogo_de_Advinhaçao\obj\Debug\Jogo_de_Advinhaçao.pdb

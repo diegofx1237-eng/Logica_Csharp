@@ -1,0 +1,7 @@
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\controle_de_bandass\controle_de_bandass\bin\Debug\controle_de_bandass.exe.config
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\controle_de_bandass\controle_de_bandass\bin\Debug\controle_de_bandass.exe
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\controle_de_bandass\controle_de_bandass\bin\Debug\controle_de_bandass.pdb
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\controle_de_bandass\controle_de_bandass\obj\Debug\controle_de_bandass.csproj.AssemblyReference.cache
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\controle_de_bandass\controle_de_bandass\obj\Debug\controle_de_bandass.csproj.CoreCompileInputs.cache
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\controle_de_bandass\controle_de_bandass\obj\Debug\controle_de_bandass.exe
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\controle_de_bandass\controle_de_bandass\obj\Debug\controle_de_bandass.pdb

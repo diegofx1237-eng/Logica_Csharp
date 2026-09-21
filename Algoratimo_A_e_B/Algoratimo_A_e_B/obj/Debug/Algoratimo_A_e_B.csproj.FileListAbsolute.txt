@@ -1,0 +1,7 @@
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Algoratimo_A_e_B\Algoratimo_A_e_B\bin\Debug\Algoratimo_A_e_B.exe.config
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Algoratimo_A_e_B\Algoratimo_A_e_B\bin\Debug\Algoratimo_A_e_B.exe
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Algoratimo_A_e_B\Algoratimo_A_e_B\bin\Debug\Algoratimo_A_e_B.pdb
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Algoratimo_A_e_B\Algoratimo_A_e_B\obj\Debug\Algoratimo_A_e_B.csproj.AssemblyReference.cache
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Algoratimo_A_e_B\Algoratimo_A_e_B\obj\Debug\Algoratimo_A_e_B.csproj.CoreCompileInputs.cache
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Algoratimo_A_e_B\Algoratimo_A_e_B\obj\Debug\Algoratimo_A_e_B.exe
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Algoratimo_A_e_B\Algoratimo_A_e_B\obj\Debug\Algoratimo_A_e_B.pdb

@@ -1,0 +1,7 @@
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Algoritimo de Dois Valores\Algoritimo de Dois Valores\bin\Debug\Algoritimo de Dois Valores.exe.config
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Algoritimo de Dois Valores\Algoritimo de Dois Valores\bin\Debug\Algoritimo de Dois Valores.exe
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Algoritimo de Dois Valores\Algoritimo de Dois Valores\bin\Debug\Algoritimo de Dois Valores.pdb
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Algoritimo de Dois Valores\Algoritimo de Dois Valores\obj\Debug\Algoritimo de Dois Valores.csproj.AssemblyReference.cache
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Algoritimo de Dois Valores\Algoritimo de Dois Valores\obj\Debug\Algoritimo de Dois Valores.csproj.CoreCompileInputs.cache
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Algoritimo de Dois Valores\Algoritimo de Dois Valores\obj\Debug\Algoritimo de Dois Valores.exe
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Algoritimo de Dois Valores\Algoritimo de Dois Valores\obj\Debug\Algoritimo de Dois Valores.pdb
