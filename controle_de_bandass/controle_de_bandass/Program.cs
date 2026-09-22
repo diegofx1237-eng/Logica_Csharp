@@ -85,7 +85,7 @@ namespace controle_de_bandass
                         break;
 
                     case 3:
-
+                        cadastro_musica();
                         break;
 
                     case 4:
@@ -189,9 +189,38 @@ namespace controle_de_bandass
             Console.WriteLine("\n" + qtdAlbum);
             Console.WriteLine("\n " + vendas);
             Thread.Sleep(5000);
+        
+       
+        
         }
 
+        static void cadastro_musica()
+        {
+            int qtdMusicas;
+            string nome_musicas, premiacao, duracao;
+            
 
+            Console.WriteLine("Digite qtdMusicas");
+            qtdMusicas = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Digite o Nome_musicas");
+            nome_musicas = Console.ReadLine();
+
+            Console.WriteLine("Digite a Duração");
+            duracao= Console.ReadLine();
+
+            Console.WriteLine("Digite a Premiacao da Musica");
+            premiacao = Console.ReadLine();
+
+            Console.WriteLine("\n" + qtdMusicas);
+
+            Console.WriteLine("\n" + nome_musicas);
+
+            Console.WriteLine("\n" + premiacao);
+            Console.WriteLine("\n " + duracao);
+            Thread.Sleep(5000);
+
+        }
     }
 
 }

@@ -1,0 +1,7 @@
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Cadastro Jogos Educativos\Cadastro Jogos Educativos\bin\Debug\Cadastro Jogos Educativos.exe.config
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Cadastro Jogos Educativos\Cadastro Jogos Educativos\bin\Debug\Cadastro Jogos Educativos.exe
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Cadastro Jogos Educativos\Cadastro Jogos Educativos\bin\Debug\Cadastro Jogos Educativos.pdb
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Cadastro Jogos Educativos\Cadastro Jogos Educativos\obj\Debug\Cadastro Jogos Educativos.csproj.AssemblyReference.cache
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Cadastro Jogos Educativos\Cadastro Jogos Educativos\obj\Debug\Cadastro Jogos Educativos.csproj.CoreCompileInputs.cache
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Cadastro Jogos Educativos\Cadastro Jogos Educativos\obj\Debug\Cadastro Jogos Educativos.exe
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Cadastro Jogos Educativos\Cadastro Jogos Educativos\obj\Debug\Cadastro Jogos Educativos.pdb

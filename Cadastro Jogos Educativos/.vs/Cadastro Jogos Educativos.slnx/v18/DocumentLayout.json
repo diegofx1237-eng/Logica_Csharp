@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diego.nascimento3\\Documents\\GitHub\\Logica_Csharp\\Cadastro Jogos Educativos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D02A2B1E-1CA2-4278-8FE8-0FB7B2BB3D29}|Cadastro Jogos Educativos\\Cadastro Jogos Educativos.csproj|c:\\users\\diego.nascimento3\\documents\\github\\logica_csharp\\cadastro jogos educativos\\cadastro jogos educativos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02A2B1E-1CA2-4278-8FE8-0FB7B2BB3D29}|Cadastro Jogos Educativos\\Cadastro Jogos Educativos.csproj|solutionrelative:cadastro jogos educativos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diego.nascimento3\\Documents\\GitHub\\Logica_Csharp\\Cadastro Jogos Educativos\\Cadastro Jogos Educativos\\Program.cs",
+              "RelativeDocumentMoniker": "Cadastro Jogos Educativos\\Program.cs",
+              "ToolTip": "C:\\Users\\diego.nascimento3\\Documents\\GitHub\\Logica_Csharp\\Cadastro Jogos Educativos\\Cadastro Jogos Educativos\\Program.cs*",
+              "RelativeToolTip": "Cadastro Jogos Educativos\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T12:47:22.683Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
