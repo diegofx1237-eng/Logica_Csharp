@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diego.nascimento3\\Documents\\GitHub\\Logica_Csharp\\Podologia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C41EE5-E7FD-4926-8FCA-533D4B6EABC1}|Podologia\\Podologia.csproj|c:\\users\\diego.nascimento3\\documents\\github\\logica_csharp\\podologia\\podologia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C41EE5-E7FD-4926-8FCA-533D4B6EABC1}|Podologia\\Podologia.csproj|solutionrelative:podologia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diego.nascimento3\\Documents\\GitHub\\Logica_Csharp\\Podologia\\Podologia\\Program.cs",
+              "RelativeDocumentMoniker": "Podologia\\Program.cs",
+              "ToolTip": "C:\\Users\\diego.nascimento3\\Documents\\GitHub\\Logica_Csharp\\Podologia\\Podologia\\Program.cs",
+              "RelativeToolTip": "Podologia\\Program.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAqwDQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T11:31:01.153Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

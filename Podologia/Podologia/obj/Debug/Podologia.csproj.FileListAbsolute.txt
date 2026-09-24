@@ -1,0 +1,7 @@
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Podologia\Podologia\bin\Debug\Podologia.exe.config
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Podologia\Podologia\bin\Debug\Podologia.exe
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Podologia\Podologia\bin\Debug\Podologia.pdb
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Podologia\Podologia\obj\Debug\Podologia.csproj.AssemblyReference.cache
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Podologia\Podologia\obj\Debug\Podologia.csproj.CoreCompileInputs.cache
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Podologia\Podologia\obj\Debug\Podologia.exe
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Podologia\Podologia\obj\Debug\Podologia.pdb
