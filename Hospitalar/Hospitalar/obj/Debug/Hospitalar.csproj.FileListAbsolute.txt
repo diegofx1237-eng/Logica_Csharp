@@ -1,0 +1,2 @@
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Hospitalar\Hospitalar\obj\Debug\Hospitalar.csproj.AssemblyReference.cache
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Hospitalar\Hospitalar\obj\Debug\Hospitalar.csproj.CoreCompileInputs.cache
