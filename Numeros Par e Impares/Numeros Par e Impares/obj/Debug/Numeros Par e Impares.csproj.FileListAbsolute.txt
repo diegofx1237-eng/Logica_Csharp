@@ -1,0 +1,7 @@
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Numeros Par e Impares\Numeros Par e Impares\bin\Debug\Numeros Par e Impares.exe.config
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Numeros Par e Impares\Numeros Par e Impares\bin\Debug\Numeros Par e Impares.exe
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Numeros Par e Impares\Numeros Par e Impares\bin\Debug\Numeros Par e Impares.pdb
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Numeros Par e Impares\Numeros Par e Impares\obj\Debug\Numeros Par e Impares.csproj.AssemblyReference.cache
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Numeros Par e Impares\Numeros Par e Impares\obj\Debug\Numeros Par e Impares.csproj.CoreCompileInputs.cache
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Numeros Par e Impares\Numeros Par e Impares\obj\Debug\Numeros Par e Impares.exe
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Numeros Par e Impares\Numeros Par e Impares\obj\Debug\Numeros Par e Impares.pdb
