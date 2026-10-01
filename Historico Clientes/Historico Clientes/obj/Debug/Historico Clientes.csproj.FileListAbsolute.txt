@@ -1,0 +1,7 @@
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Historico Clientes\Historico Clientes\bin\Debug\Historico Clientes.exe.config
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Historico Clientes\Historico Clientes\bin\Debug\Historico Clientes.exe
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Historico Clientes\Historico Clientes\bin\Debug\Historico Clientes.pdb
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Historico Clientes\Historico Clientes\obj\Debug\Historico Clientes.csproj.AssemblyReference.cache
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Historico Clientes\Historico Clientes\obj\Debug\Historico Clientes.csproj.CoreCompileInputs.cache
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Historico Clientes\Historico Clientes\obj\Debug\Historico Clientes.exe
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Historico Clientes\Historico Clientes\obj\Debug\Historico Clientes.pdb

@@ -1,0 +1,7 @@
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Cidade\Cidade\bin\Debug\Cidade.exe.config
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Cidade\Cidade\bin\Debug\Cidade.exe
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Cidade\Cidade\bin\Debug\Cidade.pdb
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Cidade\Cidade\obj\Debug\Cidade.csproj.AssemblyReference.cache
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Cidade\Cidade\obj\Debug\Cidade.csproj.CoreCompileInputs.cache
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Cidade\Cidade\obj\Debug\Cidade.exe
+C:\Users\diego.nascimento3\Documents\GitHub\Logica_Csharp\Cidade\Cidade\obj\Debug\Cidade.pdb
